@@ -1,0 +1,14 @@
+{
+  "name": "JSStudentTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Semtexcz/JSStudentTest.git",
+  "author": "Daniel Kopecký <kopecky.d@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
